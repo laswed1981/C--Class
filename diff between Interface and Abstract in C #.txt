@@ -1,0 +1,15 @@
+Abstract Calsses 
+1. can have implementations for some of it's members 
+2. can have fields 
+3. can inherit from another abstract or interface 
+4. class can not inhrit from multiple abtract 
+5 abstract class members can have access modifiers 
+
+
+Interfaces Classes
+
+1. Can not have implementation for any of it's members 
+2. can not have fields 
+3. can inherit from another interface only and can not inhrit from an abstract class
+4. calss can inhrit from multiple interfaces 
+5. interface class members can not have access modifiers 
