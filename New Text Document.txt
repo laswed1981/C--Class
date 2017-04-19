@@ -1,0 +1,6 @@
+
+String is immutable, that means if we create string object then we cannot modify it
+and It always create new object of string type in memory.
+______________________________________________________________________
+StringBuilder is mutable,that means if we create string builder object then we can perform any operation like insert, replace or append 
+without creating new instance for every time.it will update string at one place in memory doesnt create new space in memory.
